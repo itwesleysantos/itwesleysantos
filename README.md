@@ -7,7 +7,6 @@ Currently building my skills through TryHackMe’s Pre-Security pathway and Cisc
 📝 I am dedicated to daily practice to consolidate my knowledge.  
 
 🚀 Open to internships and hands-on experiences in Cyber Security. Feel free to explore my portfolio on TryHackMe and profile on LinkedIn.  
-<br>
 
 <div align="center">
   <a href="https://tryhackme.com/p/itwesleysantos">
