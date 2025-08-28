@@ -1,5 +1,5 @@
 # Wesley Santos 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png)](https://tryhackme.com/p/itwesleysantos)
 
 💻 Computer Science student focused on Cyber Security.  
 
