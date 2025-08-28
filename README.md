@@ -1,5 +1,4 @@
 # Wesley Santos 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png)](https://tryhackme.com/p/itwesleysantos)
 
 💻 Computer Science student focused on Cyber Security.  
 
@@ -10,10 +9,4 @@ Currently building my skills through TryHackMe’s Pre-Security pathway and Cisc
 🚀 Open to internships and hands-on experiences in Cyber Security. Feel free to explore my portfolio on TryHackMe and profile on LinkedIn.  
 <br>
 <br>
-💻 My Profiles:
-
-- [TryHackMe](https://tryhackme.com/p/itwesleysantos)
-- [LinkedIn](https://www.linkedin.com/in/itwesleysantos/)
-- [GitHub](https://github.com/itwesleysantos)
-<br>
-🌎 Location: Sao Paulo, SP, Brazil
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png)](https://tryhackme.com/p/itwesleysantos)
