@@ -17,4 +17,4 @@ Currently building my skills through TryHackMe’s Pre-Security pathway and Cisc
 <br>
 🌎 Location: Sao Paulo, SP, Brazil
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-5545558-blue)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png)
