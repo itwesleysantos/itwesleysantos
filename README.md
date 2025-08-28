@@ -20,3 +20,5 @@ Currently building my skills through TryHackMe’s Pre-Security pathway and Cisc
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+
+[![LinkedIn](https://raw.githubusercontent.com/seu-usuario/seu-repo/main/linkedin-badge.png)](https://www.linkedin.com/in/itwesleysantos)
