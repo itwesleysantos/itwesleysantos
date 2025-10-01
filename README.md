@@ -37,8 +37,8 @@ With a focus on practical, challenge-oriented learning (via **TryHackMe** and ot
 ## 🌐 Connect
 
 - **[TryHackMe](https://tryhackme.com/p/itwesleysantos)**
+- **[Credly](https://www.credly.com/users/itwesleysantos)**
 - **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)**
-- **[GitHub](https://github.com/itwesleysantos)**
 - **[Email](itwesleysantos@gmail.com)**
 
 ---
