@@ -34,6 +34,6 @@ Currently, I am dedicated to improving my technical English level, an essential 
 
 ## 🌐 Connect
 
-- **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** - **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** - **[Medium](https://medium.com/@itwesleysantos)** - **[Credly](https://www.credly.com/users/itwesleysantos)** - **[Email](itwesleysantos@gmail.com)**
+• **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
 
 ---
