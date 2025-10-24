@@ -27,8 +27,9 @@ Currently, I am dedicated to improving my technical English level, an essential 
 
 ## 🏆 Badges (TryHackMe)
 
-- **[Bronze League 1st place](https://tryhackme.com/itwesleysantos/badges/bronze-league?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=badge)**
-- **[Silver League 1st place](https://tryhackme.com/itwesleysantos/badges/silver-league?utm_source=linkedin&utm_medium=social&utm_campaign=social_share&utm_content=badge)**
+- **[Bronze League 1st place](https://tryhackme.com/itwesleysantos/badges/bronze-league)**
+- **[Silver League 1st place](https://tryhackme.com/itwesleysantos/badges/silver-league)**
+- **[Gold League 1st place](https://tryhackme.com/itwesleysantos/badges/gold-league)**
     
   ---
 
