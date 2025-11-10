@@ -21,14 +21,6 @@ Atualmente, estou empenhado em aprimorar meu inglês técnico, um componente ess
 
 ---
 
-## 🏆 Insígnias (TryHackMe)
-
-- **[1º lugar na Liga Bronze](https://tryhackme.com/itwesleysantos/badges/bronze-league)**
-- **[1º lugar na Liga Prata](https://tryhackme.com/itwesleysantos/badges/silver-league)**
-- **[1º lugar na Liga Ouro](https://tryhackme.com/itwesleysantos/badges/gold-league)**
-
----
-
 ## 🌐 Conecte-se
 
 • **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
@@ -53,15 +45,7 @@ Currently, I am dedicated to improving my technical English level, an essential 
 - **[Pre-Security Pathway – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HRY7TC247O.pdf)** – 2025
 - **[Cyber Security 101 Pathway – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z34JUP7VKP.pdf)** – 2025
 
----
-
-## 🏆 Badges (TryHackMe)
-
-- **[Bronze League 1st place](https://tryhackme.com/itwesleysantos/badges/bronze-league)**
-- **[Silver League 1st place](https://tryhackme.com/itwesleysantos/badges/silver-league)**
-- **[Gold League 1st place](https://tryhackme.com/itwesleysantos/badges/gold-league)**
-    
-  ---
+ ---
 
 ## 🌐 Connect
 
