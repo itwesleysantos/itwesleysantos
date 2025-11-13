@@ -1,7 +1,5 @@
 # Wesley Santos
 
-
-
 ![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) 
 
 **Estudante de Ciência da Computação com foco em Segurança Cibernética | Aberto a Oportunidades**
