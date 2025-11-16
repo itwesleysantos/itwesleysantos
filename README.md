@@ -4,7 +4,7 @@
 
 **Estudante de Ciência da Computação com foco em Segurança Cibernética | Aberto a Oportunidades**
 
-Desenvolvendo ativamente habilidades em fundamentos de segurança e administração de sistemas. Dedicado à prática contínua em plataformas como TryHackMe para consolidar meu conhecimento técnico.
+Desenvolvendo ativamente habilidades em fundamentos de segurança. Dedicado à prática contínua em plataformas como TryHackMe para consolidar meu conhecimento técnico.
 
 **Aberto a estágios e experiências práticas em Segurança Cibernética.**
 
@@ -27,7 +27,7 @@ Desenvolvendo ativamente habilidades em fundamentos de segurança e administraç
 
 **Computer Science Student Focused on Cyber Security | Open to Opportunities**
 
-Actively developing skills in security fundamentals and system administration. Committed to continuous practice on platforms like TryHackMe to consolidate technical knowledge.
+Actively developing skills in security fundamentals. Committed to continuous practice on platforms like TryHackMe to consolidate technical knowledge.
 
 **Open to internships and hands-on experiences in Cyber Security.**
 
