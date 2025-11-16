@@ -6,8 +6,6 @@
 
 Desenvolvendo ativamente habilidades em fundamentos de segurança e administração de sistemas. Dedicado à prática contínua em plataformas como TryHackMe para consolidar meu conhecimento técnico.
 
-Atualmente, estou empenhado em aprimorar meu inglês técnico, um componente essencial para uma carreira em Segurança Cibernética.
-
 **Aberto a estágios e experiências práticas em Segurança Cibernética.**
 
 ---
@@ -30,8 +28,6 @@ Atualmente, estou empenhado em aprimorar meu inglês técnico, um componente ess
 **Computer Science Student Focused on Cyber Security | Open to Opportunities**
 
 Actively developing skills in security fundamentals and system administration. Committed to continuous practice on platforms like TryHackMe to consolidate technical knowledge.
-
-Currently, I am dedicated to improving my technical English level, an essential component for a career in Cybersecurity.
 
 **Open to internships and hands-on experiences in Cyber Security.**
 
