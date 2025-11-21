@@ -23,6 +23,10 @@ Desenvolvendo ativamente habilidades em fundamentos de segurança. Dedicado à p
 
 ---
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/itwesleysantos.png" alt="Your Image Badge" />
+
+---
+
 ![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) 
 
 **Computer Science Student Focused on Cyber Security | Open to Opportunities**
