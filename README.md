@@ -44,5 +44,3 @@ Actively developing skills in security fundamentals. Committed to continuous pra
 ## 🌐 Connect
 
 • **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
-
----
