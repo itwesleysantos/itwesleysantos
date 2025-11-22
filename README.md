@@ -2,11 +2,17 @@
 
 ![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) 
 
-**Estudante de Ciência da Computação com foco em Segurança Cibernética | Aberto a Oportunidades**
+**Estudante de Ciência da Computação com Foco em Segurança da Informação | Aberto a Oportunidades**
 
-Desenvolvendo ativamente habilidades em fundamentos de segurança. Dedicado à prática contínua em plataformas como TryHackMe para consolidar meu conhecimento técnico.
+Especializando-me ativamente em Cibersegurança. Mantenho uma prática contínua em plataformas como o TryHackMe para consolidar o conhecimento técnico e estou me preparando para obter certificações essenciais da área.
 
-**Aberto a estágios e experiências práticas em Segurança Cibernética.**
+Meus principais projetos estão resumidamente listados aqui no LinkedIn, mas você pode explorar o código completo e mais detalhes aqui no meu GitHub.
+
+🏅 Metas de Certificação (Próximos Passos)
+- ISC² CC (Certified in Cybersecurity)
+- CompTIA Security+
+
+**Aberto a estágios e experiências práticas em Cibersegurança. Convido você a explorar meu portfólio de projetos aqui no GitHub e acompanhar meus estudos no Medium e TryHackMe.**
 
 ---
 
@@ -25,12 +31,17 @@ Desenvolvendo ativamente habilidades em fundamentos de segurança. Dedicado à p
 
 ![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) 
 
-**Computer Science Student Focused on Cyber Security | Open to Opportunities**
+**Computer Science Student Focusing on Information Security | Open to Opportunities**
 
-Actively developing skills in security fundamentals. Committed to continuous practice on platforms like TryHackMe to consolidate technical knowledge.
+Actively specializing in Cybersecurity. I maintain continuous practice on platforms like TryHackMe to consolidate my technical knowledge and am preparing to obtain essential certifications in the field.
 
-**Open to internships and hands-on experiences in Cyber Security.**
+My main projects are briefly listed here on LinkedIn, but you can explore the complete code and more details here on my GitHub.
 
+🏅 Certification Goals (Next Steps)
+- ISC² CC (Certified in Cybersecurity)
+- CompTIA Security+
+
+**Open to internships and hands-on experience in Cybersecurity. I invite you to explore my project portfolio here on GitHub and follow my studies on Medium and TryHackMe.**
 
 ---
 
