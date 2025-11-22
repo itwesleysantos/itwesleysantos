@@ -2,7 +2,7 @@
 
 ![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) 
 
-**Estudante de Ciência da Computação com Foco em Segurança da Informação | Aberto a Oportunidades**
+## Estudante de Ciência da Computação com Foco em Segurança da Informação | Aberto a Oportunidades
 
 Especializando-me ativamente em Cibersegurança. Mantenho uma prática contínua em plataformas como o TryHackMe para consolidar o conhecimento técnico e estou me preparando para obter certificações essenciais da área.
 
@@ -31,7 +31,7 @@ Meus principais projetos estão resumidamente listados aqui no LinkedIn, mas voc
 
 ![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) 
 
-**Computer Science Student Focusing on Information Security | Open to Opportunities**
+## Computer Science Student Focusing on Information Security | Open to Opportunities
 
 Actively specializing in Cybersecurity. I maintain continuous practice on platforms like TryHackMe to consolidate my technical knowledge and am preparing to obtain essential certifications in the field.
 
