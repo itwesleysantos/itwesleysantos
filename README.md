@@ -25,7 +25,7 @@ Meus principais projetos estão resumidamente listados aqui no LinkedIn, mas voc
 
 ## 🌐 Conecte-se
 
-• **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
+• **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[ServiceNow](https://learning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
 
 ---
 
@@ -54,4 +54,4 @@ My main projects are briefly listed here on LinkedIn, but you can explore the co
 
 ## 🌐 Connect
 
-• **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
+• **[LinkedIn](https://www.linkedin.com/in/itwesleysantos)** • **[TryHackMe](https://tryhackme.com/p/itwesleysantos)** • **[Medium](https://medium.com/@itwesleysantos)** • **[Credly](https://www.credly.com/users/itwesleysantos)** • **[ServiceNow](https://learning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=itwesleysantos)** • **[Email](itwesleysantos@gmail.com)**
