@@ -2,24 +2,25 @@
 
 ![alt text](https://img.icons8.com/?size=32&id=0raNoKwBezGl&format=png ) 
 
-## Estudante de Ciência da Computação com Foco em Segurança da Informação | Aberto a Oportunidades
+## 🛠️ Portfolio de Segurança e Automação 
 
-Especializando-me ativamente em Cibersegurança. Mantenho uma prática contínua em plataformas como o TryHackMe para consolidar o conhecimento técnico e estou me preparando para obter certificações essenciais da área.
+Estudante de **Ciência da Computação** (CR **9,9/10**) e profissional em construção na área de **Cibersegurança**. Este perfil concentra projetos práticos de automação e defesa digital.
 
-Meus principais projetos estão resumidamente listados aqui no LinkedIn, mas você pode explorar o código completo e mais detalhes aqui no meu GitHub.
+### 🎯 Foco Técnico:
 
-🏅 Metas de Certificação (Próximos Passos)
-- ISC² CC (Certified in Cybersecurity)
-- CompTIA Security+
+* **Cybersecurity (Blue Team):** Fundamentos de **SOC**, **SIEM** e **Resposta a Incidentes**. Exploração de ferramentas e metodologias (TryHackMe Path).
+* **Identity & Access Management (IAM):** Conceitos de **Zero Trust**, **PAM** (CyberArk) e integração com soluções de serviço (**ServiceNow**).
+* **Automação & Scripting:** Projetos de **RPA** e otimização de tarefas de **Sysadmin** utilizando **Python** (Pandas, PyPDF2, Twilio API).
+* **Base de TI:** Sólida compreensão de **Infraestrutura**, **Redes** e **Troubleshooting** (CompTIA Tech+).
 
-**Aberto a estágios e experiências práticas em Cibersegurança. Convido você a explorar meu portfólio de projetos aqui no GitHub e acompanhar meus estudos no Medium e TryHackMe.**
+### ⚙️ Projetos Destacados:
+
+* `IAM-Security-Frameworks`: Estudo conceitual e *workflows* sobre SailPoint, CyberArk e ServiceNow.
+* `Python-RPA-Solutions`: Scripts para análise de dados e automação de documentos.
 
 ---
 
-## 📜 Certificados (Cursos e Treinamentos)
-
-- **[Pre-Security – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HRY7TC247O.pdf)** – 2025
-- **[Cyber Security 101 – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z34JUP7VKP.pdf)** – 2025
+**Próximos passos:** Foco nas certificações **ISC2 CC, Network+, Security+ e ITIL**.
 
 ---
 
@@ -31,26 +32,27 @@ Meus principais projetos estão resumidamente listados aqui no LinkedIn, mas voc
 
 ![alt text](https://img.icons8.com/?size=32&id=NvYRxC2UBsLO&format=png ) 
 
-## Computer Science Student Focusing on Information Security | Open to Opportunities
+## 🛠️ Security and Automation Portfolio
 
-Actively specializing in Cybersecurity. I maintain continuous practice on platforms like TryHackMe to consolidate my technical knowledge and am preparing to obtain essential certifications in the field.
+Computer Science student (GPA **9.9/10**) and aspiring Cybersecurity professional. This profile focuses on practical automation and digital defense projects.
 
-My main projects are briefly listed here on LinkedIn, but you can explore the complete code and more details here on my GitHub.
+### 🎯 Technical Focus:
 
-🏅 Certification Goals (Next Steps)
-- ISC² CC (Certified in Cybersecurity)
-- CompTIA Security+
+* **Cybersecurity (Blue Team):** Fundamentals of **SOC**, **SIEM**, and **Incident Response**. Exploration of tools and methodologies (TryHackMe Path).
+* **Identity & Access Management (IAM):** Concepts of **Zero Trust**, **PAM** (CyberArk), and integration with service solutions (**ServiceNow**).
+* **Automation & Scripting:** **RPA** projects and **Sysadmin** task optimization using **Python** (Pandas, PyPDF2, Twilio API).
+* **IT Foundation:** Solid understanding of **Infrastructure**, **Networking**, and **Troubleshooting** (CompTIA Tech+).
 
-**Open to internships and hands-on experience in Cybersecurity. I invite you to explore my project portfolio here on GitHub and follow my studies on Medium and TryHackMe.**
+### ⚙️ Featured Projects:
+
+* `IAM-Security-Frameworks`: Conceptual study and workflows on SailPoint, CyberArk, and ServiceNow.
+* `Python-RPA-Solutions`: Scripts for data analysis and document automation.
 
 ---
 
-## 📜 Certificates (Courses & Training)
+**Next Steps:** Focusing on the **ISC2 CC, Network+, Security+, and ITIL** certifications.
 
-- **[Pre-Security Pathway – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HRY7TC247O.pdf)** – 2025
-- **[Cyber Security 101 Pathway – TryHackMe](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Z34JUP7VKP.pdf)** – 2025
-
- ---
+---
 
 ## 🌐 Connect
 
